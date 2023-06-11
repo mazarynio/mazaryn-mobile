@@ -1,3 +1,3 @@
 
-rootProject.name = "mazaryn-mobile"
+rootProject.name = "mazaryn"
 
