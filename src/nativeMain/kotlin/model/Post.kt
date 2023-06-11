@@ -1,4 +1,4 @@
-class Post {
-    private var id: Int 
-    private var content: String 
-}
+data class Post(
+    val id: String? = null
+    var content: String? = null
+)
