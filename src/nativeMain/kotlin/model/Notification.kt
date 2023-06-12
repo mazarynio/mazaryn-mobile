@@ -1,3 +1,3 @@
-data class Chat(
+data class Notification(
     val id: String? = null
 )
