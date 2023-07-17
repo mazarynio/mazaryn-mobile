@@ -1,3 +1,5 @@
+package io.mazaryn.data.model 
+
 data class User(
     val id: String? = null,
     var username: String? = null,

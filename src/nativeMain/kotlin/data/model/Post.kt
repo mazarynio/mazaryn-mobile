@@ -1,3 +1,5 @@
+package io.mazaryn.data.model 
+
 import java.time.LocalDate
 import java.time.LocalDateTime
 data class Post(
